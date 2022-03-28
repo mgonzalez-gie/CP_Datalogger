@@ -1,0 +1,43 @@
+Added Component: Designator=B1(KEYSTONE-2230)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "2230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "C Size Holder"; VariantName = "[No Variations]"
+Added Component: Designator=B2(KEYSTONE-2230)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "2230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "C Size Holder"; VariantName = "[No Variations]"
+Added Component: Designator=B3(KEYSTONE-2230)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "2230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "C Size Holder"; VariantName = "[No Variations]"
+Added Component: Designator=B4(KEYSTONE-2230)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "2230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "C Size Holder"; VariantName = "[No Variations]"
+Added Component: Designator=B5(KEYSTONE-2230)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "2230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "C Size Holder"; VariantName = "[No Variations]"
+Added Component: Designator=B6(KEYSTONE-2230)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "2230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "C Size Holder"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=NetB1_1 Pin=B2-1
+Added Pin To Net: NetName=GND Pin=B2-2
+Added Pin To Net: NetName=NetB1_1 Pin=B3-1
+Added Pin To Net: NetName=GND Pin=B3-2
+Added Pin To Net: NetName=NetB1_1 Pin=B4-1
+Added Pin To Net: NetName=GND Pin=B4-2
+Added Pin To Net: NetName=NetB1_1 Pin=B5-1
+Added Pin To Net: NetName=GND Pin=B5-2
+Added Pin To Net: NetName=NetB1_1 Pin=B6-1
+Added Pin To Net: NetName=GND Pin=B6-2
+Change Net Name : Old Net Name=NetB1_1 New Net Name=VBAT
+Added Member To Class: ClassName=POWER Member=Component B1 2230
+Added Member To Class: ClassName=POWER Member=Component B2 2230
+Added Member To Class: ClassName=POWER Member=Component B3 2230
+Added Member To Class: ClassName=POWER Member=Component B4 2230
+Added Member To Class: ClassName=POWER Member=Component B5 2230
+Added Member To Class: ClassName=POWER Member=Component B6 2230

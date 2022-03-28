@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=PowerBoard\PowerBoard.PrjPcb
+[Project2]
+ProjectPath=LoggerBoard\LoggerBoard.PrjPcb
