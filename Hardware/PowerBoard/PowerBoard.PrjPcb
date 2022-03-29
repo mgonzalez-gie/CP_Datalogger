@@ -133,23 +133,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=..\Libraries\General - copia.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
 DocumentPath=..\Libraries\General.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -166,7 +149,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MOMWWEUE
 
-[Document8]
+[Document7]
 DocumentPath=..\Libraries\Kemet.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -183,7 +166,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QPSZRMHF
 
-[Document9]
+[Document8]
 DocumentPath=..\Libraries\Keystone.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -200,7 +183,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LKNLZQQT
 
-[Document10]
+[Document9]
 DocumentPath=..\Libraries\Littlelfuse.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -217,7 +200,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EHHLCIOV
 
-[Document11]
+[Document10]
 DocumentPath=..\Libraries\Molex.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -234,7 +217,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=..\Libraries\OnSemiconductors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -251,7 +234,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=..\Libraries\Recom.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -268,7 +251,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CSACWBIY
 
-[Document14]
+[Document13]
 DocumentPath=..\Libraries\TexasInstruments.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -285,7 +268,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZYORBNKO
 
-[Document15]
+[Document14]
 DocumentPath=..\Libraries\Yageo.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -302,7 +285,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document15]
 DocumentPath=..\Libraries\Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -319,7 +302,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UGPQKWGF
 
-[Document17]
+[Document16]
 DocumentPath=..\Libraries\Coilcraft.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -336,7 +319,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVEYWKNZ
 
-[Document18]
+[Document17]
 DocumentPath=..\Libraries\TeConnectivity.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -353,7 +336,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VJLOEDOX
 
-[Document19]
+[Document18]
 DocumentPath=..\Libraries\Sullins.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -390,7 +373,7 @@ ConfigParameters0=OP_Analysis=True|TRAN_Analysis=True|DC_Analysis=True|AC_Analys
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=HP162FBD (HP Smart Tank 510 series)
+TargetPrinter=EPSON46EEBE (L15150 Series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -492,46 +475,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=XSpice Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=SIMetrixNetlist
-OutputName22=SIMetrix
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=SIMPLISNetlist
-OutputName23=SIMPLIS
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP162FBD (HP Smart Tank 510 series)
+TargetPrinter=EPSON46EEBE (L15150 Series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
-Configuration1_Name1=ForceUpdateSettings
-Configuration1_Item1=False
-Configuration1_Name2=OutputConfigurationParameter1
-Configuration1_Item2=OP_Analysis=True|TRAN_Analysis=True|DC_Analysis=True|AC_Analysis=True|TF_Analysis=False|PZ_Analysis=False|Noise_Analysis=False|TRAN_FourierAnalysis=False|TempSweep_Analysis=False|ParamSweep_Analysis=False|MonteCarlo_Analysis=False|TF_Enabled=False|TF_Source= |TF_Reference=0|PZ_Enabled=False|PZ_Node1= |PZ_Node2=0|PZ_Node3= |PZ_Node4=0|PZ_AnalType=PZ|PZ_TfType=VOL|AnalysesDataSavedIndex=4|DC_ShowMeasTableChart=False|DC_PrimarySource=V1|DC_PrimaryStart=1|DC_PrimaryStop=10|DC_PrimaryStep=1|DC_EnableSecondary=False|DC_SecondarySource= |DC_SecondaryStart= |DC_SecondaryStop= |DC_SecondaryStep= |Noise_Enabled=False|Noise_Source= |Noise_Output= |Noise_Reference=0|Noise_Start_UserValue= |Noise_Start=1K|Noise_Stop_UserValue= |Noise_Stop=1G|Noise_TestPoints_UserValue= |Noise_TestPoints=10|Noise_PointsPerSummary=0|Noise_SweepType=DEC|AC_StartFrequency_UserValue= |AC_StartFrequency=1K|AC_StopFrequency_UserValue= |AC_StopFrequency=1G|AC_TestPoints_UserValue= |AC_TestPoints=10|AC_SweepType=DEC|AC_ShowMeasTableChart=False|TRAN_StartTime_UserValue=0|TRAN_StartTime=0|TRAN_StopTime_UserValue=0.5|TRAN_StopTime=0.5|TRAN_StepTime_UserValue=0.0001|TRAN_StepTime=0.0001|TRAN_MaxStepTime_UserValue=0.0001|TRAN_MaxStepTime=0.0001|TRAN_AlwaysSetDefaults=False|TRAN_DefaultCycles_UserValue=10|TRAN_DefaultCycles=10|TRAN_DefaultPointsPerCycle_UserValue=50|TRAN_DefaultPointsPerCycle=50|TRAN_UseInitialConditions=False|TRAN_FourierEnabled=False|TRAN_FourierFundFreq_UserValue=1000|TRAN_FourierFundFreq=1000|TRAN_FourierNumHarmonics_UserValue=10|TRAN_FourierNumHarmonics=10|TRAN_ShowMeasTableChart=False|TempSweep_Start_UserValue=0|TempSweep_Start=0|TempSweep_Stop_UserValue=0|TempSweep_Stop=0|TempSweep_Step_UserValue=0|TempSweep_Step=0|ParamSweep_Parameter1=Temp|ParamSweep_Type1=LIN|ParamSweep_Start1=1n|ParamSweep_Stop1=1u|ParamSweep_Step1=100n|ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2= |ParamSweep_Type2=LIN|ParamSweep_Start2= |ParamSweep_Stop2= |ParamSweep_Step2= |ParamSweep_SweepType2=False|MonteCarlo_NumberOfRuns=5|MonteCarlo_DistributionType=UNIFORM|MonteCarlo_Seed=-1|MonteCarlo_ResistorTolerance=10%|MonteCarlo_ResistorTolerance_UserValue=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_CapacitorTolerance_UserValue=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_InductorTolerance_UserValue=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_TransistorTolerance_UserValue=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DCSourceTolerance_UserValue=10%|MonteCarlo_DigitalTpTolerance=10%|MonteCarlo_DigitalTpTolerance_UserValue=10%|Sensitivity_Analysis=False|Sensitivity_GroupDeviationsEnabled=False|Sensitivity_GroupResistorEnabled=True|Sensitivity_GroupResistorDeviation_UserValue= |Sensitivity_GroupResistorDeviation=1m|Sensitivity_GroupCapacitorEnabled=False|Sensitivity_GroupCapacitorDeviation_UserValue= |Sensitivity_GroupCapacitorDeviation=1m|Sensitivity_GroupInductorEnabled=False|Sensitivity_GroupInductorDeviation_UserValue= |Sensitivity_GroupInductorDeviation=1m|Sensitivity_GroupTransistorEnabled=False|Sensitivity_GroupTransistorDeviation_UserValue= |Sensitivity_GroupTransistorDeviation=1m|Sensitivity_GroupDcSourceEnabled=False|Sensitivity_GroupDcSourceDeviation_UserValue= |Sensitivity_GroupDcSourceDeviation=1m|Sensitivity_GroupGlobalParameterEnabled=False|Sensitivity_GroupGlobalParameterDeviation_UserValue= |Sensitivity_GroupGlobalParameterDeviation=1m|Sensitivity_CustomDeviationsEnabled=True|OldCfgLoaded=True|SimViewSetup=ShowActiveSignalsProbes|OPTION_Method=Trapezoidal|OPTION_SpiceRefNode_UserValue=GND|OPTION_SpiceRefNode=GND|OPTION_DVCC_UserValue=5.000|OPTION_DVCC=5.000|OPTION_DVDD_UserValue=15.00|OPTION_DVDD=15.00|SheetsToNetlist=0|ParamSweep_CustomStart0_UserValue= |ParamSweep_CustomStop0_UserValue= |ParamSweep_CustomStep0_UserValue= |ParamSweep_Start1_UserValue= |ParamSweep_Stop1_UserValue= |ParamSweep_Step1_UserValue= |Sensitivity_ParameterDeviation0_UserValue= |LaunchDate=2022-03-13 16:33:28Z|DC_CustomStart0_UserValue= |DC_CustomStop0_UserValue= |DC_CustomStep0_UserValue= |DC_PrimaryStart_UserValue= |DC_PrimaryStop_UserValue= |DC_PrimaryStep_UserValue= |DC_CustomEnabled0=True|DC_CustomSource0=V1|DC_CustomStart0=1|DC_CustomStop0=10|DC_CustomStep0=1|TRAN_VariableEnabled0=True|TRAN_XVariable0= |TRAN_Variable0=IN|TRAN_VariableName0= |TRAN_VariableUnits0= |TRAN_VariablePlot0=0|TRAN_VariableAxis0=0|TRAN_VariableColor0=8421504|TRAN_VariableEnabled1=True|TRAN_XVariable1= |TRAN_Variable1=OUT|TRAN_VariableName1= |TRAN_VariableUnits1= |TRAN_VariablePlot1=0|TRAN_VariableAxis1=0|TRAN_VariableColor1=8421504|Variable0=IN|VariablePlot0=0|VariableAxis0=0|VariableName0= |VariableUnits0= |VariableColor0=8421504|Variable1=OUT|VariablePlot1=0|VariableAxis1=0|VariableName1= |VariableUnits1= |VariableColor1=8421504|ParamSweep_CustomEnabled0=True|ParamSweep_CustomParameter0=Temp|ParamSweep_CustomType0=LIN|ParamSweep_CustomStart0=1n|ParamSweep_CustomStop0=1u|ParamSweep_CustomStep0=100n|Sensitivity_ParameterEnabled0=True|Sensitivity_Parameter0=Temp|Sensitivity_ParameterDeviation0=1m|Record=AdvSimNetlistView|SimulationName=Mixed Sim Configuration|ProfileId=ENCQUXBY
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -608,7 +557,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=HP162FBD (HP Smart Tank 510 series)
+TargetPrinter=EPSON46EEBE (L15150 Series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -630,7 +579,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP162FBD (HP Smart Tank 510 series)
+TargetPrinter=EPSON46EEBE (L15150 Series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -716,7 +665,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=HP162FBD (HP Smart Tank 510 series)
+TargetPrinter=EPSON46EEBE (L15150 Series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -765,7 +714,7 @@ PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=HP162FBD (HP Smart Tank 510 series)
+TargetPrinter=EPSON46EEBE (L15150 Series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -873,7 +822,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=HP162FBD (HP Smart Tank 510 series)
+TargetPrinter=EPSON46EEBE (L15150 Series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -917,7 +866,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=HP162FBD (HP Smart Tank 510 series)
+TargetPrinter=EPSON46EEBE (L15150 Series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -978,7 +927,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=HP162FBD (HP Smart Tank 510 series)
+TargetPrinter=EPSON46EEBE (L15150 Series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
