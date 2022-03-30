@@ -133,23 +133,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=..\Libraries\General - copia.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
 DocumentPath=..\Libraries\General.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -166,7 +149,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MOMWWEUE
 
-[Document8]
+[Document7]
 DocumentPath=..\Libraries\Kemet.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -183,7 +166,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QPSZRMHF
 
-[Document9]
+[Document8]
 DocumentPath=..\Libraries\Keystone.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -200,7 +183,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LKNLZQQT
 
-[Document10]
+[Document9]
 DocumentPath=..\Libraries\Littlelfuse.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -217,7 +200,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EHHLCIOV
 
-[Document11]
+[Document10]
 DocumentPath=..\Libraries\Molex.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -234,7 +217,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=..\Libraries\OnSemiconductors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -251,7 +234,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=..\Libraries\Recom.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -268,7 +251,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CSACWBIY
 
-[Document14]
+[Document13]
 DocumentPath=..\Libraries\TexasInstruments.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -285,7 +268,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZYORBNKO
 
-[Document15]
+[Document14]
 DocumentPath=..\Libraries\Yageo.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -302,7 +285,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document15]
 DocumentPath=..\Libraries\Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -319,7 +302,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UGPQKWGF
 
-[Document17]
+[Document16]
 DocumentPath=..\Libraries\Coilcraft.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -336,7 +319,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVEYWKNZ
 
-[Document18]
+[Document17]
 DocumentPath=..\Libraries\TeConnectivity.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -353,7 +336,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VJLOEDOX
 
-[Document19]
+[Document18]
 DocumentPath=..\Libraries\Sullins.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -369,6 +352,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BQHGKPID
+
+[Document19]
+DocumentPath=..\Libraries\Microchip.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JDCOHKHL
 
 [Configuration1]
 Name=Sources
