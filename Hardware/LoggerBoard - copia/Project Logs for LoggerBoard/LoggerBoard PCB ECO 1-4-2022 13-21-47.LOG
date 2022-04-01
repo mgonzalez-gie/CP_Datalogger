@@ -1,0 +1,369 @@
+Removed Pin From Net: NetName=MDM-UART.RI Pin=U26-115
+Removed Pin From Net: NetName=MDM-UART.DTR Pin=U26-116
+Added Component: Designator=B1(Holder-CR2032-103)
+Add component (AddParameter): Name = "Batery"; Value = "CR2032 3.0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-101-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "534-101"; VariantName = "[No Variations]"
+Added Component: Designator=C87(CAP-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CBR06C679B5GAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-C0805C155K4RAC7800CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "80-C0805C155K4R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+/-0.1pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6.7pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C88(CAP-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CBR06C679B5GAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-C0805C155K4RAC7800CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "80-C0805C155K4R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+/-0.1pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6.7pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C89(CAP-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C0603C100K3GAC7867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C90(CAP-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C0603C100K3GAC7867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C91(CAP-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C0603C104K5RACAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-6856-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "80-C0603C104K5RAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C92(CAP-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C0603C225M9PAC7867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3"; VariantName = "[No Variations]"
+Added Component: Designator=C93(CAP-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C0603C225M9PAC7867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3"; VariantName = "[No Variations]"
+Added Component: Designator=C94(CAP-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C0603C105M3RAC7867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-C0603C105M3RAC7867CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "80-C0603C105M3R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.0uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25"; VariantName = "[No Variations]"
+Added Component: Designator=C95(CAP-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C0603C105M3RAC7867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-C0603C105M3RAC7867CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "80-C0603C105M3R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.0uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25"; VariantName = "[No Variations]"
+Added Component: Designator=C96(CAP-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C0603C104K5RACAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-6856-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "80-C0603C104K5RAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C97(CAP-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C0603C105M3RAC7867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-C0603C105M3RAC7867CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "80-C0603C105M3R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.0uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25"; VariantName = "[No Variations]"
+Added Component: Designator=C98(CAP-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C0603C104K5RACAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-6856-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "80-C0603C104K5RAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C99(CAP_ALUM_SIZE_F)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part}Number"; Value = "EEE-FK0J471P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=FB4(IND-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "Z0603C121GPWZT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-Z0603C121GPWZTCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "80-Z0603C121GPWZT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120@100MHz"; VariantName = "[No Variations]"
+Added Component: Designator=J7(PIN3)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins Connector Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PRPC003SAAN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S1011EC-03-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J8(TE-2201778-1)
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "2201778-1"; VariantName = "[No Variations]"
+Added Component: Designator=J9(TE-640455-4)
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Conn"; Value = "1375820-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "640455-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A19452-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "571-6404554"; VariantName = "[No Variations]"
+Added Component: Designator=J10(TE-640455-3)
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Conn"; Value = "1375820-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "640455-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A19451-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "571-6404553"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-100KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "603-RC0805FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "105"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-100KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "603-RC0603FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-100KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "603-RC0805FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10.0K"; VariantName = "[No Variations]"
+Added Component: Designator=S1(KSC_J)
+Add component (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "KSC223JLFG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CKN12117CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "611-KSC223JLFG"; VariantName = "[No Variations]"
+Added Component: Designator=S2(KSC_J)
+Add component (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "KSC223JLFG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CKN12117CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "611-KSC223JLFG"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(XTAL-ABS07)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ABS07-32.768KHZ-7-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "535-9543-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "815-ABS07-32.768K7T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "32.768KHz"; VariantName = "[No Variations]"
+Added Component: Designator=Y2(XTAL-ABM7)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ABM7-16.000MHZ-D-2-Y-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8.000 MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=GND Pin=C87-1
+Added Pin To Net: NetName=GND Pin=C88-1
+Added Pin To Net: NetName=GND Pin=C89-1
+Added Pin To Net: NetName=GND Pin=C90-1
+Added Pin To Net: NetName=GND Pin=C91-1
+Added Pin To Net: NetName=RST Pin=C91-2
+Added Pin To Net: NetName=GND Pin=C92-1
+Added Pin To Net: NetName=GND Pin=C93-1
+Added Pin To Net: NetName=GND Pin=C94-1
+Added Pin To Net: NetName=3.3V Pin=C94-2
+Added Pin To Net: NetName=GND Pin=C95-1
+Added Pin To Net: NetName=GND Pin=C96-1
+Added Pin To Net: NetName=GND Pin=C97-1
+Added Pin To Net: NetName=GND Pin=C98-1
+Added Pin To Net: NetName=3.3V Pin=C99-1
+Added Pin To Net: NetName=GND Pin=C99-2
+Added Pin To Net: NetName=3.3V Pin=FB4-2
+Added Pin To Net: NetName=GND Pin=J7-1
+Added Pin To Net: NetName=3.3V Pin=J7-3
+Added Pin To Net: NetName=3.3V Pin=J8-4
+Added Pin To Net: NetName=GND Pin=J8-6
+Added Pin To Net: NetName=GND Pin=J8-10
+Added Pin To Net: NetName=GND Pin=J8-11
+Added Pin To Net: NetName=GND Pin=J8-12
+Added Pin To Net: NetName=GND Pin=J8-13
+Added Pin To Net: NetName=GND Pin=J8-14
+Added Pin To Net: NetName=GND Pin=J8-15
+Added Pin To Net: NetName=GND Pin=J8-16
+Added Pin To Net: NetName=GND Pin=J9-4
+Added Pin To Net: NetName=3.3V Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J10-3
+Added Pin To Net: NetName=NetD15_1 Pin=R25-1
+Added Pin To Net: NetName=3.3VM Pin=R25-2
+Added Pin To Net: NetName=GND Pin=R27-1
+Added Pin To Net: NetName=3.3V Pin=S1-1
+Added Pin To Net: NetName=3.3V Pin=S1-4
+Added Pin To Net: NetName=RST Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S2-3
+Added Pin To Net: NetName=RST Pin=S2-4
+Added Pin To Net: NetName=3.3V Pin=U26-17
+Added Pin To Net: NetName=3.3V Pin=U26-30
+Added Pin To Net: NetName=GND Pin=U26-31
+Added Pin To Net: NetName=GND Pin=U26-38
+Added Pin To Net: NetName=3.3V Pin=U26-39
+Added Pin To Net: NetName=3.3V Pin=U26-52
+Added Pin To Net: NetName=3.3V Pin=U26-62
+Added Pin To Net: NetName=3.3V Pin=U26-72
+Added Pin To Net: NetName=MDM-UART.DTR Pin=U26-77
+Added Pin To Net: NetName=3.3V Pin=U26-84
+Added Pin To Net: NetName=3.3V Pin=U26-95
+Added Pin To Net: NetName=3.3V Pin=U26-108
+Added Pin To Net: NetName=3.3V Pin=U26-121
+Added Pin To Net: NetName=MDM-UART.RI Pin=U26-123
+Added Pin To Net: NetName=3.3V Pin=U26-131
+Added Pin To Net: NetName=3.3V Pin=U26-143
+Added Pin To Net: NetName=3.3V Pin=U26-144
+Added Pin To Net: NetName=3.3VA Pin=C95-2
+Added Pin To Net: NetName=3.3VA Pin=C96-2
+Added Pin To Net: NetName=3.3VA Pin=C97-2
+Added Pin To Net: NetName=3.3VA Pin=C98-2
+Added Pin To Net: NetName=3.3VA Pin=FB4-1
+Added Pin To Net: NetName=3.3VA Pin=U26-32
+Added Pin To Net: NetName=3.3VA Pin=U26-33
+Added Net: Name=3.3VA
+Added Pin To Net: NetName=BOOT0 Pin=R27-2
+Added Pin To Net: NetName=BOOT0 Pin=S1-2
+Added Pin To Net: NetName=BOOT0 Pin=S1-3
+Added Pin To Net: NetName=BOOT0 Pin=U26-138
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=BOOT1 Pin=J7-2
+Added Pin To Net: NetName=BOOT1 Pin=R26-2
+Added Net: Name=BOOT1
+Added Pin To Net: NetName=MICRO-SD.CLK Pin=J8-5
+Added Pin To Net: NetName=MICRO-SD.CLK Pin=U26-113
+Added Net: Name=MICRO-SD.CLK
+Added Pin To Net: NetName=MICRO-SD.CMD Pin=J8-3
+Added Pin To Net: NetName=MICRO-SD.CMD Pin=U26-116
+Added Net: Name=MICRO-SD.CMD
+Added Pin To Net: NetName=MICRO-SD.DAT0 Pin=J8-7
+Added Pin To Net: NetName=MICRO-SD.DAT0 Pin=U26-98
+Added Net: Name=MICRO-SD.DAT0
+Added Pin To Net: NetName=MICRO-SD.DAT1 Pin=J8-8
+Added Pin To Net: NetName=MICRO-SD.DAT1 Pin=U26-99
+Added Net: Name=MICRO-SD.DAT1
+Added Pin To Net: NetName=MICRO-SD.DAT2 Pin=J8-1
+Added Pin To Net: NetName=MICRO-SD.DAT2 Pin=U26-111
+Added Net: Name=MICRO-SD.DAT2
+Added Pin To Net: NetName=MICRO-SD.DAT3 Pin=J8-2
+Added Pin To Net: NetName=MICRO-SD.DAT3 Pin=U26-112
+Added Net: Name=MICRO-SD.DAT3
+Added Pin To Net: NetName=MICRO-SD.SW Pin=J8-9
+Added Pin To Net: NetName=MICRO-SD.SW Pin=U26-114
+Added Net: Name=MICRO-SD.SW
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=U26-6
+Added Net: Name=NetB1_1
+Added Pin To Net: NetName=NetC87_2 Pin=C87-2
+Added Pin To Net: NetName=NetC87_2 Pin=U26-9
+Added Pin To Net: NetName=NetC87_2 Pin=Y1-2
+Added Net: Name=NetC87_2
+Added Pin To Net: NetName=NetC88_2 Pin=C88-2
+Added Pin To Net: NetName=NetC88_2 Pin=Y1-1
+Added Net: Name=NetC88_2
+Added Pin To Net: NetName=NetC89_2 Pin=C89-2
+Added Pin To Net: NetName=NetC89_2 Pin=U26-23
+Added Pin To Net: NetName=NetC89_2 Pin=Y2-2
+Added Net: Name=NetC89_2
+Added Pin To Net: NetName=NetC90_2 Pin=C90-2
+Added Pin To Net: NetName=NetC90_2 Pin=U26-24
+Added Pin To Net: NetName=NetC90_2 Pin=Y2-1
+Added Net: Name=NetC90_2
+Added Pin To Net: NetName=NetC92_2 Pin=C92-2
+Added Pin To Net: NetName=NetC92_2 Pin=U26-106
+Added Net: Name=NetC92_2
+Added Pin To Net: NetName=NetC93_2 Pin=C93-2
+Added Pin To Net: NetName=NetC93_2 Pin=U26-71
+Added Net: Name=NetC93_2
+Added Pin To Net: NetName=NetJ10_2 Pin=J10-2
+Added Pin To Net: NetName=NetJ10_2 Pin=U26-34
+Added Net: Name=NetJ10_2
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=NetR26_1 Pin=U26-48
+Added Net: Name=NetR26_1
+Added Pin To Net: NetName=USB.D+ Pin=J9-2
+Added Pin To Net: NetName=USB.D+ Pin=U26-103
+Added Net: Name=USB.D+
+Added Pin To Net: NetName=USB.D- Pin=J9-3
+Added Pin To Net: NetName=USB.D- Pin=U26-104
+Added Net: Name=USB.D-
+Added Pin To Net: NetName=USB.VBUS Pin=J9-1
+Added Pin To Net: NetName=USB.VBUS Pin=U26-101
+Added Net: Name=USB.VBUS
+Added Class: Name=MICRO-SD
+Added Class: Name=POWER
+Added Class: Name=USB
+Added Member To Class: ClassName=MICROCONTROLLER-CONTROL Member=Component B1 101
+Added Member To Class: ClassName=MICROCONTROLLER-PORTS Member=Component C87 CBR06C679B5GAC
+Added Member To Class: ClassName=MICROCONTROLLER-PORTS Member=Component C88 CBR06C679B5GAC
+Added Member To Class: ClassName=MICROCONTROLLER-CONTROL Member=Component C89 C0603C100K3GAC7867
+Added Member To Class: ClassName=MICROCONTROLLER-CONTROL Member=Component C90 C0603C100K3GAC7867
+Added Member To Class: ClassName=MICROCONTROLLER-CONTROL Member=Component C91 C0603C104K5RACAUTO
+Added Member To Class: ClassName=MICROCONTROLLER-CONTROL Member=Component C92 C0603C225M9PAC7867
+Added Member To Class: ClassName=MICROCONTROLLER-CONTROL Member=Component C93 C0603C225M9PAC7867
+Added Member To Class: ClassName=MICROCONTROLLER-CONTROL Member=Component C94 C0603C105M3RAC7867
+Added Member To Class: ClassName=MICROCONTROLLER-CONTROL Member=Component C95 C0603C105M3RAC7867
+Added Member To Class: ClassName=MICROCONTROLLER-CONTROL Member=Component C96 C0603C104K5RACAUTO
+Added Member To Class: ClassName=MICROCONTROLLER-CONTROL Member=Component C97 C0603C105M3RAC7867
+Added Member To Class: ClassName=MICROCONTROLLER-CONTROL Member=Component C98 C0603C104K5RACAUTO
+Added Member To Class: ClassName=MICROCONTROLLER-CONTROL Member=Component FB4 Z0603C121GPWZT
+Added Member To Class: ClassName=MICROCONTROLLER-PORTS Member=Component J7 PRPC003SAAN-RC
+Added Member To Class: ClassName=MODEM Member=Component R25 RC0805FR-07100KL
+Added Member To Class: ClassName=MICROCONTROLLER-PORTS Member=Component R26 RC0603FR-07100KL
+Added Member To Class: ClassName=MICROCONTROLLER-CONTROL Member=Component R27 RC0603FR-0710KL
+Added Member To Class: ClassName=MICROCONTROLLER-CONTROL Member=Component S1 KSC223JLFG
+Added Member To Class: ClassName=MICROCONTROLLER-CONTROL Member=Component S2 KSC223JLFG
+Added Member To Class: ClassName=MICROCONTROLLER-PORTS Member=Component Y1 ABS07-32.768KHZ-7-T
+Added Member To Class: ClassName=MICROCONTROLLER-CONTROL Member=Component Y2 ABM7-16.000MHZ-D-2-Y-T
+Added Room: Name=MICRO-SD
+Added Room: Name=POWER
+Added Room: Name=USB

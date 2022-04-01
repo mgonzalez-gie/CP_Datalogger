@@ -1,6 +1,6 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=PowerBoard\PowerBoard.PrjPcb
+ProjectPath=LoggerBoard - copia\LoggerBoard.PrjPcb
 [Project2]
-ProjectPath=LoggerBoard\LoggerBoard.PrjPcb
+ProjectPath=PowerBoard - copia\PowerBoard.PrjPcb
